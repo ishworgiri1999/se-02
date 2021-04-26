@@ -11,7 +11,7 @@ git clone https://github.com/ishworgiri1999/se-02.git
 ```
 
 ```
-cd se-02-team-33
+cd se-02
 ```
 
 ```bash
