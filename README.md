@@ -7,7 +7,7 @@ Ishwor Giri & Hamza Bouhelal
 ## Installation
 
 ```
-git clone https://github.com/lorenzorota/se-02-team-33.git
+git clone https://github.com/ishworgiri1999/se-02.git
 ```
 
 ```
